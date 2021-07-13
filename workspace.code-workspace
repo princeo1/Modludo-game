@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\Temp js\\Clock using JS"
+	},
+	{
+		"path": "..\\..\\Temp js\\starter"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Clock using JS"
+  }
+}
